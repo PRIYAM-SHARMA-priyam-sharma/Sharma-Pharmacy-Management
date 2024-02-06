@@ -13,7 +13,7 @@ const array = [
     price: 100,
     quantity: 20,
     image:
-      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJ1Z3N8ZW58MHx8MHx8fDA%3D",
+      "https://domf5oio6qrcr.cloudfront.net/medialibrary/4977/3687af9d-7e14-43ee-999b-7c9f3a341b9d.jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const array = [
     price: 230,
     quantity: 30,
     image:
-      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJ1Z3N8ZW58MHx8MHx8fDA%3D",
+      "https://www.verywellhealth.com/thmb/HXweuW5iQ5_fd0d6Jzoixs_wJAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/medicine-pills-463594335-ba46b2f34a764be6a9c0e56a308cb938.jpg",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const array = [
     price: 400,
     quantity: 40,
     image:
-      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJ1Z3N8ZW58MHx8MHx8fDA%3D",
+      "https://media.licdn.com/dms/image/D5612AQEgocnGQOANCg/article-cover_image-shrink_600_2000/0/1687423918558?e=2147483647&v=beta&t=kQQNZrYh3ibcsgod1FEsQ2KuUhMN9Tyn0cNUD1h79lI",
   },
 ];
 const tempArray = JSON.parse(JSON.stringify(array));
